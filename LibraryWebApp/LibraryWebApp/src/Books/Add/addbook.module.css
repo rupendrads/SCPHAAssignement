@@ -1,0 +1,26 @@
+.headerDiv {    
+    margin-bottom: 20px;
+}
+
+.headerDiv > h3 {
+    color: gray;
+}
+
+.formDiv {
+    display: flex;    
+    justify-content: center;
+}
+
+.formSubDiv {
+    min-width: 400px;
+}
+
+.formSubDiv div {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.buttonDiv {
+    display: flex;
+    justify-content: flex-end;
+}

@@ -1,0 +1,25 @@
+.headerDiv {    
+    margin-bottom: 20px;
+}
+
+.headerDiv > h3 {
+    color: gray;
+}
+
+.buttonDiv {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.tableDiv {
+    margin-top: 20px;
+}
+
+.formDiv {
+    min-width: 700px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+}
